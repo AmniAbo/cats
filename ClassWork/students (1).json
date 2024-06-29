@@ -1,0 +1,30 @@
+{
+    "students": [
+      {
+        "name": "shady",
+        "family name": "hijazy",
+        "email": "shady@gmail.com"
+      },
+      {
+        "name": "amni",
+        "family name": "abo samra",
+        "email": "amne@gmail.com"
+      },
+      {
+        "name": "zenab",
+        "family name": "abd elghani",
+        "email": "zenab@gmail.com"
+      },
+      {
+        "name": "janet",
+        "family name": "ibrahim",
+        "email": "janet@gmail.com"
+      },
+      {
+        "name": "pier",
+        "family name": "mbariky",
+        "email": "pier@gmail.com"
+      }
+    ]
+  }
+  
